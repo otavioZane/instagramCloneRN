@@ -1,0 +1,33 @@
+[
+  {
+    "id" : 1,
+    "img" : "https://picsum.photos/id/100/300/200",
+    "description" : "Uma bela praia numa bela tarde",
+    "likes" : 0,
+    "user" : {
+        "img" : "https://picsum.photos/id/1025/80/80",
+        "nome" : "Dog"
+    }
+  },
+  {
+    "id" : 2,
+    "img" : "https://picsum.photos/id/1019/300/200",
+    "description" : "Tarde com chuva na praia",
+    "likes" : 8,
+    "user" : {
+        "img" : "https://picsum.photos/id/1025/80/80",
+        "nome" : "Dog"
+    }
+  },
+  {
+    "id" : 3,
+    "img" : "https://picsum.photos/id/102/300/200",
+    "description" : "Amo essa fruta",
+    "likes" : 16,
+    "user" : {
+        "img" : "https://picsum.photos/id/1025/80/80",
+        "nome" : "Dog"
+    }
+  }
+  
+]
